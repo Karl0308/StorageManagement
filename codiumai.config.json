@@ -1,0 +1,7 @@
+{
+    "testRunner": "jest",
+    "testSettings": {
+      "testEnvironment": "node"
+    }
+  }
+  
